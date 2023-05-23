@@ -1,6 +1,6 @@
 # abc
 
-[Title] [#foo]
+[Title] (#foo)
 
 
 
